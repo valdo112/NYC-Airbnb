@@ -25,7 +25,7 @@ Translate analytical findings into business insights and recommendations
 
 🗂 Dataset
 
-Source: NYC Airbnb Open Data (Kaggle)
+Source: NYC Airbnb Open Data ([Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data/data))
 
 Records: ~49,000 listings
 
